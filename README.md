@@ -8,3 +8,23 @@ This repository helps me:
 - Practice interview-focused problems
 - Improve problem-solving skills
 - Build a reusable reference for common algorithms and data structures
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/KartikSharma1k/Data-Structure-and-Algorithm/tree/master/0098-validate-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/KartikSharma1k/Data-Structure-and-Algorithm/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/KartikSharma1k/Data-Structure-and-Algorithm/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/KartikSharma1k/Data-Structure-and-Algorithm/tree/master/0098-validate-binary-search-tree) |
+<!---LeetCode Topics End-->
