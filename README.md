@@ -41,9 +41,18 @@ This repository helps me:
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/KartikSharma1k/Data-Structure-and-Algorithm/tree/master/0015-3sum) |
 | [1046-last-stone-weight](https://github.com/KartikSharma1k/Data-Structure-and-Algorithm/tree/master/1046-last-stone-weight) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/KartikSharma1k/Data-Structure-and-Algorithm/tree/master/1046-last-stone-weight) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/KartikSharma1k/Data-Structure-and-Algorithm/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/KartikSharma1k/Data-Structure-and-Algorithm/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
