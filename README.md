@@ -38,4 +38,12 @@ This repository helps me:
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KartikSharma1k/Data-Structure-and-Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/KartikSharma1k/Data-Structure-and-Algorithm/tree/master/0226-invert-binary-tree) |
+## Array
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/KartikSharma1k/Data-Structure-and-Algorithm/tree/master/1046-last-stone-weight) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/KartikSharma1k/Data-Structure-and-Algorithm/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
