@@ -1,2 +1,10 @@
 # Data-Structure-and-Algorithm
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# LeetCode Journey
+
+A curated collection of LeetCode problems I've solved along with the concepts, patterns, and techniques I've learned throughout my DSA journey.
+
+This repository helps me:
+- Track my learning progress
+- Practice interview-focused problems
+- Improve problem-solving skills
+- Build a reusable reference for common algorithms and data structures
