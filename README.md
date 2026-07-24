@@ -15,11 +15,13 @@ This repository helps me:
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/KartikSharma1k/Data-Structure-and-Algorithm/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/KartikSharma1k/Data-Structure-and-Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/KartikSharma1k/Data-Structure-and-Algorithm/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/KartikSharma1k/Data-Structure-and-Algorithm/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/KartikSharma1k/Data-Structure-and-Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/KartikSharma1k/Data-Structure-and-Algorithm/tree/master/0226-invert-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -29,9 +31,11 @@ This repository helps me:
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/KartikSharma1k/Data-Structure-and-Algorithm/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/KartikSharma1k/Data-Structure-and-Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/KartikSharma1k/Data-Structure-and-Algorithm/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/KartikSharma1k/Data-Structure-and-Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/KartikSharma1k/Data-Structure-and-Algorithm/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
