@@ -26,6 +26,7 @@ This repository helps me:
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/KartikSharma1k/Data-Structure-and-Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/KartikSharma1k/Data-Structure-and-Algorithm/tree/master/0098-validate-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -42,6 +43,7 @@ This repository helps me:
 |  |
 | ------- |
 | [0015-3sum](https://github.com/KartikSharma1k/Data-Structure-and-Algorithm/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/KartikSharma1k/Data-Structure-and-Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [1046-last-stone-weight](https://github.com/KartikSharma1k/Data-Structure-and-Algorithm/tree/master/1046-last-stone-weight) |
 ## Heap (Priority Queue)
 |  |
