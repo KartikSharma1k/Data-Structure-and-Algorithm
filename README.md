@@ -42,6 +42,7 @@ This repository helps me:
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/KartikSharma1k/Data-Structure-and-Algorithm/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/KartikSharma1k/Data-Structure-and-Algorithm/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KartikSharma1k/Data-Structure-and-Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [1046-last-stone-weight](https://github.com/KartikSharma1k/Data-Structure-and-Algorithm/tree/master/1046-last-stone-weight) |
@@ -52,9 +53,14 @@ This repository helps me:
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/KartikSharma1k/Data-Structure-and-Algorithm/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/KartikSharma1k/Data-Structure-and-Algorithm/tree/master/0015-3sum) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/KartikSharma1k/Data-Structure-and-Algorithm/tree/master/0015-3sum) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/KartikSharma1k/Data-Structure-and-Algorithm/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
